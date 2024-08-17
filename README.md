@@ -1,14 +1,21 @@
-# SPATS
+# :boot: SPATS
 
 ![](./img/overview.png)
 
+
 This is the official implementation of "**SPA**tio-**T**emporal graph **S**ystem (SPATS)" in the following paper:
 
-- Yoon, Heeyong, et al. "SPATS: A practical system for comparative analysis of Spatio-Temporal Graph Neural Networks." *Knowledge-Based Systems* ??? (2024): ??????.
+- Yoon, Heeyong, et al. "SPATS: A practical system for comparative analysis of Spatio-Temporal Graph Neural Networks." *Journal Name Here* (2024): *Issue and Volume Here.*
 
-## How to use
+## :warning: Notice
 
-### Prerequisites
+We currently have ***not released our source code before the paper's acceptance***. We do not want our implementation to be effortlessly scooped in other research or products without copyrights.
+
+If you are the ***reviewer*** in the review process, you can ***request the code*** to one of the authors' emails (sunrise2575@dgist.ac.kr, kw.chon@koreatech.ac.kr)
+
+## :scroll: How to use
+
+### ☑️ Prerequisites
 
 **Note**: This is not a commercial system, so we do not guarantee its behavior in all environments. Please use appropriate external knowledge, official documentation and experiences for handling exceptional cases.
 
@@ -92,7 +99,7 @@ This is the official implementation of "**SPA**tio-**T**emporal graph **S**ystem
     conda activate base
     pip install -r requirements.txt
     ```
-### SPATS Usage
+### 📖 SPATS Usage
 
 1. Launch Broker and Worker
     
@@ -285,7 +292,7 @@ This is the official implementation of "**SPA**tio-**T**emporal graph **S**ystem
     python ./query.py delete <job_id>
     ```
 
-## Citation
+## 📝 Citation
 
 If you use this repository in your research project, please cite the following BiBTeX in your paper:
 
@@ -293,10 +300,10 @@ If you use this repository in your research project, please cite the following B
 @article{yoon2024spats,
     title={SPATS: A practical system for comparative analysis of Spatio-Temporal Graph Neural Networks},
     author={Yoon, Heeyong and Chon, Kang-Wook and Kim, Min-Soo},
-    journal={Knowledge-Based Systems},
-    volume={???},
-    pages={??????},
+    journal={},
+    volume={},
+    pages={},
     year={2024},
-    publisher={Elsevier}
+    publisher={}
 }
 ```
