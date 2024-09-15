@@ -9,7 +9,7 @@ This is the official implementation of "**SPA**tio-**T**emporal graph **S**ystem
 
 ## :warning: Notice
 
-We currently have ***not released our source code before the paper's acceptance***. We do not want our implementation to be effortlessly scooped in other research or products without copyrights.
+We currently ***do not release our source code before the paper's acceptance***. We do not want our implementation to be effortlessly scooped in other research or products without copyrights.
 
 If you are the ***reviewer*** in the review process, you can ***request the code*** to one of the authors' emails (sunrise2575@dgist.ac.kr, kw.chon@koreatech.ac.kr)
 
