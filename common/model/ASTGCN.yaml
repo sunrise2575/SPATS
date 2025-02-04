@@ -1,0 +1,6 @@
+# Model
+# all values originated from the paper "Attention based spatial-temporal graph convolutional networks for traffic flow forecasting" and its repository
+time_strides: 1 # from repository
+nb_block: 2 # from repository
+nb_chev_filter: 64 # "In our model, all the graph convolution layers use 64 convolution kernels."
+nb_time_filter: 64 # "All the temporal convolution layers use 64 convolution kernels."

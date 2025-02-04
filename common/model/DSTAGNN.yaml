@@ -1,0 +1,6 @@
+nb_block: 4
+n_heads: 3
+d_k: 32
+nb_chev_filter: 32
+nb_time_filter: 32
+d_model: 512

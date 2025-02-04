@@ -1,0 +1,11 @@
+# all values originated from the paper "Graph wavenet for deep spatial-temporal graph modeling" and its repository
+
+addaptadj: True # "The forward-backward-adaptive model achieves the best results on both datasets"
+gcn_bool: True # "The forward-backward-adaptive model achieves the best results on both datasets"
+
+dropout: 0.3 # "Dropout with p=0.3 is applied to the outputs of the graph convolution layer."
+kernel_size: 2 # from respository code... but DO NOT CHANGE!
+residual_channels: 32 # from repository code, nhid=32
+dilation_channels: 32 # from repository code, nhid=32
+skip_channels: 256 # from repository code, nhid*8=256
+end_channels: 512 # from repository code, nhid*16=512

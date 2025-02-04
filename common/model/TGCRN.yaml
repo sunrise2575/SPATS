@@ -1,0 +1,12 @@
+time_dim: 64 # time embedding dim
+rnn_units: 64 # hidden state dim
+num_layers: 2 # network layer
+embed_dim: 64 # node embedding dim
+cheb_k: 2
+graph_direction: "symm"
+time_embedding: True
+time_station: True
+od_flag: False
+period: True
+Seq_Dec: True
+constrative_time: False

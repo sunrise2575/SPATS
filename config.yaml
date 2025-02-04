@@ -1,0 +1,3 @@
+location:
+  dataset: "./dataset/"
+  result: "./result/"

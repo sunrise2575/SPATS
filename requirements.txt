@@ -1,0 +1,10 @@
+fastapi==0.115.8
+fastdtw==0.3.4
+numpy==1.26.0
+pandas==2.2.3
+PyYAML==6.0.2
+Requests==2.32.3
+scipy==1.15.1
+torch==2.0.1
+torchdiffeq==0.2.4
+uvicorn==0.34.0

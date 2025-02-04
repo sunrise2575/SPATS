@@ -1,0 +1,6 @@
+# Model
+# all values originated from the paper "Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting" and its repository
+max_diffusion_step: 2 # "the maximum steps of random walks, i.e., K, is set to 3." K == max_diffusion_step + 1
+rnn_units: 64 # " In each recurrent layer, there are 64 units."
+num_rnn_layers: 2 # "Both encoder and decoder contain two recurrent layers."
+cl_decay_steps: 3000 # "τ are parameters to control the speed of convergence. τ is set to 3,000 in the experiments"
